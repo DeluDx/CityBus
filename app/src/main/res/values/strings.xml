@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CityBus</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">User Name</string>
+    <string name="nav_header_subtitle">usermail@mail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">SignOut</string>
+
+    <string name="menu_home">User Profile</string>
+    <string name="menu_gallery">Support</string>
+    <string name="menu_slideshow">PromoCode</string>
+    <string name="menu_tools">Settings</string>
+    <string name="menu_share">Share and invite</string>
+    <string name="menu_send">Feedback</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
